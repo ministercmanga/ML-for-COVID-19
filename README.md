@@ -1,1 +1,1 @@
-# ML-for-COVID-19
+This project consist of 3 machine learning models for predicting COVID-19 results, which are Logistic Regression, Random Forest and Decision Tree. The dataset is source from Kaggle, which consits of pataint ID, Temparature, PulseRate and Oxygen.
